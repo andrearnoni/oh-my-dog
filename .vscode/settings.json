@@ -7,6 +7,6 @@
     "package.json": true,
     "package-lock.json": true,
     "public": true,
-    "README.md": true
+    "README.md": false
   }
 }
